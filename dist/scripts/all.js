@@ -1,0 +1,1 @@
+"use strict";!function(){alert("message")}(),console.log(23432);
